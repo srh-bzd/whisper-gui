@@ -24,7 +24,7 @@ In fields like journalism and anthropology, transcription is part of the job —
 
 There are now great tools to make the job easier, like OpenAI’s Whisper. It’s powerful and supports many languages, but for people who aren’t used to working with command lines, getting it set up can be a headache.
 
-That’s why I built Whisper-GUI. It’s a simple, point-and-click interface for Whisper. You just upload your audio, pick your settings, and get a transcription or translation right in your browser. No coding, no terminal commands — just results.
+That’s why I built Whisper-GUI. It’s a simple, point-and-click interface for Whisper. You just upload your audio, pick your settings, and get a transcription or translation right in your browser. No coding, only one terminal commands and just results.
 
 To make setup even easier, the project includes an auto-installation script for Linux and macOS.
 
@@ -54,7 +54,7 @@ To make setup even easier, the project includes an auto-installation script for 
 git clone https://github.com/srh-bzd/whisper-gui.git
 ```
 
-- or Click and point :
+- or point-and-click :
 
 Into the repository, click on <img width="116" height="44" alt="Capture d’écran du 2025-08-12 16-25-11" src="https://github.com/user-attachments/assets/85dc3193-d9f5-4f77-9e9b-5abdf38f95fd" /> button, then <img width="137" height="44" alt="Capture d’écran du 2025-08-12 16-27-45" src="https://github.com/user-attachments/assets/cf264a71-809f-446d-a8ac-9f60062b0f26" />.
 
