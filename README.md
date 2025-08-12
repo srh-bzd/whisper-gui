@@ -22,7 +22,7 @@ A Streamlit app that uses OpenAI's Whisper model to transcribe audio.
 
 In fields like journalism and anthropology, transcription is part of the job — and anyone who’s done it knows how much time it eats up. Doing it by hand is slow and repetitive.
 
-There are now great tools to make the job easier, like OpenAI’s Whisper. It’s powerful and supports many languages, but for people who aren’t used to working with command lines, getting it set up can be a headache.
+There are now great tools to make the job easier, like [OpenAI’s Whisper](https://github.com/openai/whisper). It’s powerful and supports many languages, but for people who aren’t used to working with command lines, getting it set up can be a headache.
 
 That’s why I built Whisper-GUI. It’s a simple, point-and-click interface for Whisper. You just upload your audio, pick your settings, and get a transcription or translation right in your browser. No coding, only one command in the terminal.
 
