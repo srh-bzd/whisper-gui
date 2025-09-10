@@ -1,5 +1,12 @@
 # Whisper-GUI
 
+![Python 3+](https://img.shields.io/badge/python-3%2B-blue?logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-blue?logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-Model-orange?logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=github&logoColor=white)
+
+
 A Streamlit app that uses OpenAI's Whisper model to transcribe audio.
 
 <img width="1590" height="883" alt="Capture d’écran du 2025-08-12 18-02-01" src="https://github.com/user-attachments/assets/e4379103-0c3a-42f5-851a-1b42e51717b1" />
@@ -40,6 +47,7 @@ To make setup even easier, the project includes an auto-installation script for 
 - **Model caching** — speeds up repeated transcriptions
 - **Local transcription** — all audio processing happens on your machine; no files are uploaded to the internet, ensuring privacy
 - **Downloadable results** — save transcriptions as `.txt` files
+- **Timestamped filenames** — append date & time to downloaded files (e.g., `transcription_25122025_1230.txt`)
 - **Wide file format support** — works with `.mp3`, `.wav`, `.mp4`, `.m4a`, and more
 
 
